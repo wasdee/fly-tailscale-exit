@@ -1,11 +1,10 @@
-# fly.toml app configuration file generated for wasdeenet on 2023-04-20T22:54:38+07:00
+# fly.toml app configuration file generated for wasdeenet on 2023-04-20T23:24:15+07:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = "wasdeenet"
 primary_region = "sin"
-
 kill_signal = "SIGINT"
 kill_timeout = "5s"
 
