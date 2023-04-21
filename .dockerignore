@@ -1,3 +1,4 @@
-images/
-.github/
+Dockerfile
 README.md
+fly.tomlimages/
+.github/
